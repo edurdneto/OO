@@ -1,0 +1,48 @@
+type = book
+callnumber = 102
+authors = 
+title =  Eduardo
+publisher = Yahoo
+year = 2012
+
+type = book
+callnumber = 10
+authors = 
+title =  joaoSemDedo
+publisher =  folha aberta
+year = 2000
+
+type = book
+callnumber = 300
+authors = 
+title =  Jessica Torres
+publisher =  SoParaBoyzinhas
+year = 2015
+
+type = book
+callnumber = 545
+authors = 
+title =  Folha
+publisher =  Amanha
+year = 2000
+
+type = book
+callnumber = 1002
+authors =  Eduardo, Maria
+title =  Palmeiras
+publisher =  Abril
+year = 2015
+
+type = book
+callnumber = 7
+authors = 
+title =  lance
+publisher =  Abril
+year = 2015
+
+type = journal
+callnumber = 210
+title =  Veja
+organization =  Abril
+year = 2016
+
