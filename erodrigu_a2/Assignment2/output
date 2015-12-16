@@ -1,0 +1,46 @@
+type = book
+callnumber = 102930
+authors = 
+title = Eduardo
+publisher = null
+year = 2000
+
+type = journal
+callnumber = 1
+title = Folha
+organization = null
+year = 2000
+
+type = book
+callnumber = 2
+authors = Eduardo, Max
+title = EduardoNeto
+publisher = Fulano
+year = 2015
+
+type = journal
+callnumber = 202
+title = Eduardo Neto
+organization = null
+year = 2000
+
+type = book
+callnumber = 39393
+authors = 
+title = Eduardo Fulando Eduardo
+publisher = null
+year = 2000
+
+type = book
+callnumber = 1
+authors = 
+title = testEqual1
+publisher = null
+year = 2000
+
+type = journal
+callnumber = 1
+title = testEqual3
+organization = null
+year = 2000
+
